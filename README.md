@@ -41,6 +41,16 @@ Now whenever we run **pytest**  it will automatically pick up everything inside 
 Result:
 <img width="1825" height="1004" alt="image" src="https://github.com/user-attachments/assets/7808ef90-1195-432b-9572-5bf79eaec5b1" />
 
+Pre-Commit Hook (Local Automation)
+1. Install pre-commit:
+
+pip install pre-commit
+2. Add a .pre-commit-config.yaml to your project root:
+3. Install hooks:
+
+pre-commit install
+
+
 
 
 
