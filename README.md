@@ -32,6 +32,18 @@ pip install flask
 Test Case Results
 <img width="1904" height="1066" alt="image" src="https://github.com/user-attachments/assets/c09d40d9-1f38-42d7-899d-a4b23eea183d" />
 
+# Automated Testing Configuration
+Configured pytest to know how to discover and run tests.
+
+Create a file in the project root called pytest.ini:
+Now whenever we run **pytest**  it will automatically pick up everything inside tests/.
+
+Result:
+<img width="1825" height="1004" alt="image" src="https://github.com/user-attachments/assets/7808ef90-1195-432b-9572-5bf79eaec5b1" />
+
+
+
+
     
 
    
