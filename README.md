@@ -112,7 +112,7 @@ Image successfully created and visible in Docker Desktop:
 
 ## CI/CD Pipeline with GitHub Actions  
 
-A fully automated **CI/CD pipeline** has been configured using **GitHub Actions**.  
+A fully automated **CI/CD pipeline** has been configured using **GitHub Actions**.   
 
 ### Workflow Features  
 - **Automated Build** – Builds the Docker image on every push.  
