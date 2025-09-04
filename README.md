@@ -108,6 +108,14 @@ Image successfully created and visible in Docker Desktop:
 ![Docker Desktop 1](https://github.com/user-attachments/assets/543de038-bd70-463c-8dca-fce98a40d0f1)  
 ![Docker Desktop 2](https://github.com/user-attachments/assets/96c20221-baaa-4a83-900b-7e5c19e04e78)  
 
+**Live Hosted and running the container in Docker Desktop**
+
+<img width="1914" height="1019" alt="image" src="https://github.com/user-attachments/assets/092796d6-8de1-4d04-9240-48cadf4b95ed" />
+
+**LIVE Application Running URL**
+
+<img width="1911" height="972" alt="image" src="https://github.com/user-attachments/assets/61619c56-dda9-4d74-b489-4c5d73593ba9" />
+
 ---
 
 ## CI/CD Pipeline with GitHub Actions  
