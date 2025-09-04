@@ -22,6 +22,8 @@ cd DevopsAssignment1ACEest_Fitness-Gym
    ```bash
    python app.py
    ```
+<img width="1168" height="210" alt="image" src="https://github.com/user-attachments/assets/6e125077-6745-4496-9bcb-fde66309620e" />
+
 4. Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)  
 
 ---
