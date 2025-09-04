@@ -25,9 +25,16 @@ pip install flask
 
      pip install pytest
 2. Verify pytest is installed
-    
 
    pip show pytest
+
+# Unit Testing Framework Integration
+Test Case Results
+<img width="1904" height="1066" alt="image" src="https://github.com/user-attachments/assets/c09d40d9-1f38-42d7-899d-a4b23eea183d" />
+
+    
+
+   
     
 
    
