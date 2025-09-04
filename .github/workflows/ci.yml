@@ -1,0 +1,28 @@
+name: CI - Flask Fitness Gym
+
+on:
+  push:
+    branches: [ "**" ]   # Run on all branches
+  pull_request:
+    branches: [ "**" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Docker Buildx (for modern builds)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      # 3. Build Docker image
+      - name: Build Docker image
+        run: docker build -t fitness-gym-app .
+
+      # 4. Run Pytest inside container
+      - name: Run Pytest inside Docker
+        run: docker run fitness-gym-app pytest -v
