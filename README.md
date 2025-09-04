@@ -57,7 +57,7 @@ Pre-Commit Hook (Local Automation)
 1. Added requirements.txt to list all dependencies (Flask + pytest for dev/test):
 2. Added Dockerfile, which will create the image of the project
 3. Added .dockerignore file to avoid copying unnecessary files into the image.
-4. Running docker build -t fitness-gym-app .
+4. Running the docker build command to create image.  **docker build -t fitness-gym-app .**
 
 <img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/36e47024-e069-45ed-aea5-aa1296093ffa" />
 
