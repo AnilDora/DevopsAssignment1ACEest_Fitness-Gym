@@ -6,7 +6,7 @@ Installation
 # Clone the repository
 git clone https://github.com/AnilDora/DevopsAssignment1ACEest_Fitness-Gym.git
 
-cd user-service
+cd DevopsAssignment1ACEest_Fitness-Gym
 
 # Running it
 1. Install Flask:
@@ -63,7 +63,8 @@ Pre-Commit Hook (Local Automation)
 
 Listing fitness-gym-app image (tag latest) on Docker Desktop app
 
-<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/f9781e81-7e7a-41fa-b70c-82a79930deff" />
+<img width="1901" height="1068" alt="image" src="https://github.com/user-attachments/assets/543de038-bd70-463c-8dca-fce98a40d0f1" />
+
 
 <img width="1914" height="1072" alt="image" src="https://github.com/user-attachments/assets/96c20221-baaa-4a83-900b-7e5c19e04e78" />
 
