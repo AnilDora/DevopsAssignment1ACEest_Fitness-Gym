@@ -128,6 +128,6 @@ A fully automated **CI/CD pipeline** has been configured using **GitHub Actions*
 - **Continuous Integration** – Ensures that code changes are verified before merging.  
 - **Continuous Delivery** – Prepares the application image for deployment.  
 
-### Workflow File (`.github/workflows/ci-cd.yml`)  
+### Workflow File (`.github/workflows/ci.yml`)  
 
-👨‍💻 Developed as part of **DevOps Assignment 1**.
+Developed as part of **DevOps Assignment 1**.
