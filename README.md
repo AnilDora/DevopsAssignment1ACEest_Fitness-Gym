@@ -61,6 +61,11 @@ Pre-Commit Hook (Local Automation)
 
 <img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/36e47024-e069-45ed-aea5-aa1296093ffa" />
 
+Listing fitness-gym-app image (tag latest) on Docker Desktop app
+
+<img width="1914" height="1072" alt="image" src="https://github.com/user-attachments/assets/96c20221-baaa-4a83-900b-7e5c19e04e78" />
+
+
 
 
 
