@@ -6,7 +6,7 @@ Installation
 # Clone the repository
 git clone https://github.com/AnilDora/DevopsAssignment1ACEest_Fitness-Gym.git
 
-cd user-service
+cd DevopsAssignment1ACEest_Fitness-Gym
 
 # Running it
 1. Install Flask:
@@ -40,6 +40,36 @@ Now whenever we run **pytest**  it will automatically pick up everything inside 
 
 Result:
 <img width="1825" height="1004" alt="image" src="https://github.com/user-attachments/assets/7808ef90-1195-432b-9572-5bf79eaec5b1" />
+
+Pre-Commit Hook (Local Automation)
+1. Install pre-commit:
+
+      pip install pre-commit
+
+2. Add a .pre-commit-config.yaml to your project root:
+
+3. Install hooks:
+
+   pre-commit install
+
+# Containerization with Docker: 
+
+1. Added requirements.txt to list all dependencies (Flask + pytest for dev/test):
+2. Added Dockerfile, which will create the image of the project
+3. Added .dockerignore file to avoid copying unnecessary files into the image.
+4. Running the docker build command to create image.  **docker build -t fitness-gym-app .**
+
+<img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/36e47024-e069-45ed-aea5-aa1296093ffa" />
+
+Listing fitness-gym-app image (tag latest) on Docker Desktop app
+
+<img width="1901" height="1068" alt="image" src="https://github.com/user-attachments/assets/543de038-bd70-463c-8dca-fce98a40d0f1" />
+
+
+<img width="1914" height="1072" alt="image" src="https://github.com/user-attachments/assets/96c20221-baaa-4a83-900b-7e5c19e04e78" />
+
+
+
 
 
 
