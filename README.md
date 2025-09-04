@@ -44,11 +44,13 @@ Result:
 Pre-Commit Hook (Local Automation)
 1. Install pre-commit:
 
-pip install pre-commit
+      pip install pre-commit
+
 2. Add a .pre-commit-config.yaml to your project root:
+
 3. Install hooks:
 
-pre-commit install
+   pre-commit install
 
 
 
