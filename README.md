@@ -130,4 +130,8 @@ A fully automated **CI/CD pipeline** has been configured using **GitHub Actions*
 
 ### Workflow File (`.github/workflows/ci.yml`)  
 
+**Github Actions Screenshot**
+<img width="1912" height="1010" alt="image" src="https://github.com/user-attachments/assets/d81c35d1-9e0a-46a4-9b7c-9e7e4ddbf6b8" />
+
+
 Developed as part of **DevOps Assignment 1**.
