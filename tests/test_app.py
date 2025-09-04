@@ -1,6 +1,7 @@
 import pytest
 from app import app, workouts
 
+
 @pytest.fixture
 def client():
     # Flask provides a test client for simulating requests
