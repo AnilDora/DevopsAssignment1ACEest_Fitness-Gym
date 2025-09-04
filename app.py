@@ -29,7 +29,7 @@ def add_workout():
             flash("Duration must be a number.", "error")
             return redirect(url_for("add_workout"))
 
-    return render_template("add.html")
+    return render_template("add.html") 
 
 @app.route("/workouts")
 def view_workouts():
