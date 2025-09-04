@@ -64,7 +64,7 @@ pip install flask
    ```  
    it will automatically detect and run tests from the `tests/` folder.  
 
-📊 Example result:  
+Example result:  
 ![Pytest Result](https://github.com/user-attachments/assets/7808ef90-1195-432b-9572-5bf79eaec5b1)  
 
 ---
