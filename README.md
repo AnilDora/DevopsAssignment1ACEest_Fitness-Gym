@@ -133,7 +133,8 @@ A fully automated **CI/CD pipeline** has been configured using **GitHub Actions*
 **Github Actions Screenshot**
 
 
-<img width="1912" height="1010" alt="image" src="https://github.com/user-attachments/assets/d81c35d1-9e0a-46a4-9b7c-9e7e4ddbf6b8" />
+<img width="1910" height="1012" alt="image" src="https://github.com/user-attachments/assets/0738a062-e498-4ccd-8947-4e0b90574eac" />
+
 
 
 
