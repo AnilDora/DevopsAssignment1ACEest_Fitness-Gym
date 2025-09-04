@@ -52,6 +52,12 @@ Pre-Commit Hook (Local Automation)
 
    pre-commit install
 
+# Containerization with Docker: 
+
+1. Added requirements.txt to list all dependencies (Flask + pytest for dev/test):
+2. Added Dockerfile, which will create the image of the project
+3. Added .dockerignore file to avoid copying unnecessary files into the image:
+
 
 
 
